@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: D:/大学文件/毕业设计/毕设src/人脸检测/work/train  
+val: D:/大学文件/毕业设计/毕设src/人脸检测/work/val  
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'face']
